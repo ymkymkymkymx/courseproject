@@ -1,4 +1,4 @@
-##Part2
+## Part2
 ### Project name: Open Scanner Serial(OSS) 
 * Number of contributors: 2
 * Number lines of Codes: 13453+10313+6147=29913
