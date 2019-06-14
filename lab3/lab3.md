@@ -1,5 +1,8 @@
 ## Part1
 #### A link to the wiki page: https://github.com/ymkymkymkymx/courseproject/wiki
+#### Step3: ![step3](step3.png)
+#### Step4: ![step4](step4.png)
+
 
 ## Part2
 ### Project name: Open Scanner Serial(OSS) 
