@@ -1,3 +1,6 @@
+## Part1
+#### A link to the wiki page: https://github.com/ymkymkymkymx/courseproject/wiki
+
 ## Part2
 ### Project name: Open Scanner Serial(OSS) 
 * Number of contributors: 2
