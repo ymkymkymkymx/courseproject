@@ -60,14 +60,14 @@ Date:   Fri Apr 26 12:34:48 2019 -0400<br />
 ### lines analysis by git command:
     ![numberoflines](numberoflines.png)
 
-### gitstats: it is wierd to find that the lines of codes by gitstats is 50 more than git command.
-    Also Authors doubles the contributors, but I found the two more authors were actually the two contributors by their name.
-    ![gitstats](gitstats.png)
+### gitstats: ![gitstats](gitstats.png)
+#### It is wierd to find that the lines of codes by gitstats is 50 more than git command. Also Authors doubles the contributors, but I found the two more authors were actually the two contributors by their name.
+ 
 
-### gource:
-    ![gource](gource.png)
+### gource: ![gource](gource.png)
 
-### vedio of gource:
-    ![themp4](themp4.png)
+  
+### vedio of gource: ![themp4](themp4.png)
+    
 
 ### youtube link: https://youtu.be/34UavLrnNQo
