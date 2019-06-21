@@ -15,5 +15,14 @@
  
 ## Business model
 *   https://github.com/ROBINDEBKL/laligastat
- 
- This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
+
+## 5 projects from RCOS
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/HuimingCheng/AutoGrading | yes | MIT License
+https://github.com/saprap1/auto-calendar | yes | MIT License
+https://github.com/gaskij/rpicampusmap | yes | GPL v3.0
+https://github.com/codingandcommunity/rcos-open-source-curriculum-project | yes | MIT License
+https://github.com/copperwater/yacs | yes | MIT License
+
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
