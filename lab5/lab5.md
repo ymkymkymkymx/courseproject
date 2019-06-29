@@ -579,7 +579,7 @@ cmake_check_build_system:
 .PHONY : cmake_check_build_system
 
 ```
-#### CMakerunning ![part2cmake](partcmake.PNG)
+#### CMakerunning ![part2cmake](part2cmake.PNG)
 
 #### comparing ![part2comp](part2comp.PNG)
 
