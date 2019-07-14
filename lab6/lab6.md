@@ -15,7 +15,7 @@
 #### ![ex3](ex3.PNG)
 
 ### example 04
-#### For example 04, I followed the instruction, used my machine IP instead of localhost, and got the result as below.
+#### For example 04, I followed the instruction, deleted the node_module file folder(can't pass otherwise), used my machine IP instead of localhost, and got the result as below.
 #### ![ex4](ex4.PNG) ![ex4alter](ex4alter.PNG)
 
 ### Reflextion
