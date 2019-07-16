@@ -8,7 +8,8 @@
 #### ![ex1](ex1.PNG)
 
 ### example 02
-#### As instructed in class, I skiped the example 02 after I tried it and cannot open the website
+#### As instructed in class, I skiped the example 02 after I tried it and cannot open the website. However, after following the post on mattermost, I made it.
+#### ![ex2](ex2.PNG)
 
 ### example 03
 #### For example 03,I mainly followed the instruction, except that I use the machine IP instead of localhost , and got the result as below.
