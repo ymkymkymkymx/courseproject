@@ -19,5 +19,9 @@
 #### For example 04, I followed the instruction, deleted the node_module file folder(can't pass otherwise), used my machine IP instead of localhost, and got the result as below.
 #### ![ex4](ex4.PNG) ![ex4alter](ex4alter.PNG)
 
+### Remove containers and images
+#### I used```docker system prune -a``` to remove all images and countainers after they are stopped.
+#### ![ex5](ex5.PNG)
+
 ### Reflextion
 #### It took me 3 hours to figure out that I should use IP address instead of localhost. It is not that I haven't tried IP address in the first place, but that I had not get both container running and IP address in right format in the same time until I searched the problem on stackoverflow. So in conclusion, stackoverflow is the best.
