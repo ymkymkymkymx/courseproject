@@ -39,3 +39,5 @@ Supposed coat prediction:
 prediction:
 Coat
 ```
+
+#### Screenshot of running my code: ![predictions.PNG](predictions.PNG)
