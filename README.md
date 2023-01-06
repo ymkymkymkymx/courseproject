@@ -1,2 +1,2 @@
 # courseproject
-bloody cs homework
+cs homework
